@@ -9,8 +9,6 @@ public class SalesRegistry {
 
     public static void main(String[] args) {
        Application registerSale = new Application();
-       
        registerSale.registerSale();
     }
-    
 }
